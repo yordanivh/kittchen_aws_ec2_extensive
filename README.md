@@ -24,7 +24,7 @@ This repository provides a hands on  experience with kitchen test of terraform. 
   
 * An SSH key pair - this is actually provided in this repo allready to save some manual work.
 
-**_Use it only during testing out this repo and make sure to delete you resources in AWS when done._**
+> Use it only during testing out this repo and make sure to delete you resources in AWS when done.
 
 * Terraform installed
 
